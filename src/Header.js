@@ -18,11 +18,7 @@ function Header() {
   return (
     <div className="header">
       <Link to="/">
-        <img
-          className="header__logo"
-          src="https://lh3.googleusercontent.com/eRsFkMimVsPk8itZjPu8zDLtV9ML3qXfKvVsIG8ywn3Asi3CyAG4IPERjv69LwC3krzsDzFapBEsxegtl455U754MGEdxRMwG41Yuh41"
-          alt="log"
-        />
+    
       </Link>
 
       <div className="header__search">

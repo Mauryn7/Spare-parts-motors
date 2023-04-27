@@ -75,21 +75,52 @@ function Home() {
         <div className="home__row">
           <Product
             id="8908309583"
-            title="Brake pads"
+            title="Bolts"
             image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
-            price={500.2}
+            price={10}
             rating={5}
           />
           <Product
             id="8908309583"
-            title="Brake pads"
+            title="engine oil"
             image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
-            price={500.2}
+            price={50.2}
             rating={5}
           />
           <Product
             id="02348244"
-            title="Suspension"
+            title="Windshield wiper"
+            image="https://www.kindpng.com/picc/m/285-2855211_jri-shocks-polaris-slingshot-car-suspension-png-transparent.png"
+            price={30.11}
+            rating={4}
+          />
+
+          <Product
+            id="402973242"
+            title="car audio wire"
+            image="https://www.kindpng.com/picc/m/233-2335206_windshield-png-page-car-windscreens-png-transparent-png.png"
+            price={134}
+            rating={4}
+          />
+        </div>
+        <div className="home__row">
+          <Product
+            id="8908309583"
+            title="screws"
+            image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
+            price={30}
+            rating={5}
+          />
+          <Product
+            id="8908309583"
+            title="drive gear box"
+            image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
+            price={430}
+            rating={5}
+          />
+          <Product
+            id="02348244"
+            title="power window"
             image="https://www.kindpng.com/picc/m/285-2855211_jri-shocks-polaris-slingshot-car-suspension-png-transparent.png"
             price={300.91}
             rating={4}
@@ -97,71 +128,40 @@ function Home() {
 
           <Product
             id="402973242"
-            title="Wind Shield"
+            title="sunroof module"
             image="https://www.kindpng.com/picc/m/233-2335206_windshield-png-page-car-windscreens-png-transparent-png.png"
-            price={1000.05}
+            price={1123.4}
             rating={4}
           />
         </div>
         <div className="home__row">
+          <Product
+            id="8908309583"
+            title="steering wheel"
+            image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
+            price={300.5}
+            rating={5}
+          />
           <Product
             id="8908309583"
             title=""
             image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
-            price={500.2}
-            rating={5}
-          />
-          <Product
-            id="8908309583"
-            title="Brake pads"
-            image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
-            price={500.2}
+            price={100}
             rating={5}
           />
           <Product
             id="02348244"
-            title="Suspension"
+            title="car cover"
             image="https://www.kindpng.com/picc/m/285-2855211_jri-shocks-polaris-slingshot-car-suspension-png-transparent.png"
-            price={300.91}
+            price={200.5}
             rating={4}
           />
 
           <Product
             id="402973242"
-            title="Wind Shield"
+            title="hand brakes"
             image="https://www.kindpng.com/picc/m/233-2335206_windshield-png-page-car-windscreens-png-transparent-png.png"
-            price={1000.05}
-            rating={4}
-          />
-        </div>
-        <div className="home__row">
-          <Product
-            id="8908309583"
-            title="Brake pads"
-            image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
-            price={500.2}
-            rating={5}
-          />
-          <Product
-            id="8908309583"
-            title="Brake pads"
-            image="https://www.kindpng.com/picc/m/463-4633050_brake-disc-safeline-brake-pads-hd-hd-png.png"
-            price={500.2}
-            rating={5}
-          />
-          <Product
-            id="02348244"
-            title="Suspension"
-            image="https://www.kindpng.com/picc/m/285-2855211_jri-shocks-polaris-slingshot-car-suspension-png-transparent.png"
-            price={300.91}
-            rating={4}
-          />
-
-          <Product
-            id="402973242"
-            title="Wind Shield"
-            image="https://www.kindpng.com/picc/m/233-2335206_windshield-png-page-car-windscreens-png-transparent-png.png"
-            price={1000.05}
+            price={101}
             rating={4}
           />
         </div>
@@ -170,7 +170,7 @@ function Home() {
             id="9873043"
             title="Tyres"
             image=" https://www.nicepng.com/png/detail/6-63620_car-tires-png-clip-art-clip-art-tyres.png"
-            price={800.90}
+            price={600.50}
             rating={4}
           />
         </div>
